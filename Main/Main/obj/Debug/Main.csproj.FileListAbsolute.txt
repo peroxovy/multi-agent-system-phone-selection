@@ -1,0 +1,15 @@
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\bin\Debug\Main.exe.config
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\bin\Debug\Main.exe
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\bin\Debug\Main.pdb
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.Form1.resources
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.exe
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.pdb
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.Form2.resources
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\bin\Debug\Newtonsoft.Json.dll
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\bin\Debug\Newtonsoft.Json.xml
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.csproj.CopyComplete
+D:\PWSZ - Informatyka\STUDIA ROK 3\6 semestr\wieloagenty\Wieloagenty\Main\Main\obj\Debug\Main.Form3.resources
